@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ambujpandey1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ambujpandey1/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2714-left-and-right-sum-differences](https://github.com/ambujpandey1/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-leaf-similar-trees](https://github.com/ambujpandey1/Leetcode/tree/master/0904-leaf-similar-trees) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/ambujpandey1/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->

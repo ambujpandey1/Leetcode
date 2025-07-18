@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ambujpandey1/Leetcode/tree/master/0205-isomorphic-strings) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ambujpandey1/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 ## Math
 |  |
 | ------- |

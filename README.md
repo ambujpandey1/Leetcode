@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ambujpandey1/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ambujpandey1/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ambujpandey1/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/ambujpandey1/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ambujpandey1/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1547-destination-city](https://github.com/ambujpandey1/Leetcode/tree/master/1547-destination-city) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ambujpandey1/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ambujpandey1/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ambujpandey1/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/ambujpandey1/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ambujpandey1/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->

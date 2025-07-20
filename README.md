@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0001-two-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ambujpandey1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1039-find-the-town-judge](https://github.com/ambujpandey1/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/ambujpandey1/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1547-destination-city](https://github.com/ambujpandey1/Leetcode/tree/master/1547-destination-city) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ambujpandey1/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/ambujpandey1/Leetcode/tree/master/0205-isomorphic-strings) |
+| [1039-find-the-town-judge](https://github.com/ambujpandey1/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1297-maximum-number-of-balloons](https://github.com/ambujpandey1/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1547-destination-city](https://github.com/ambujpandey1/Leetcode/tree/master/1547-destination-city) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ambujpandey1/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/ambujpandey1/Leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->

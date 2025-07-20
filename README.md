@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ambujpandey1/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ambujpandey1/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ambujpandey1/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2365-percentage-of-letter-in-string](https://github.com/ambujpandey1/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/ambujpandey1/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/ambujpandey1/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Math

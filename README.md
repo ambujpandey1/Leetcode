@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3194-find-words-containing-character](https://github.com/ambujpandey1/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ambujpandey1/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3334-apple-redistribution-into-boxes](https://github.com/ambujpandey1/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/ambujpandey1/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/ambujpandey1/Leetcode/tree/master/0070-climbing-stairs) |
 | [2571-find-the-pivot-integer](https://github.com/ambujpandey1/Leetcode/tree/master/2571-find-the-pivot-integer) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/ambujpandey1/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Dynamic Programming
 |  |
 | ------- |

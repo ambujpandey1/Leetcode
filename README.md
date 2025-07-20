@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2714-left-and-right-sum-differences](https://github.com/ambujpandey1/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ambujpandey1/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/ambujpandey1/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ambujpandey1/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ambujpandey1/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ambujpandey1/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 <!---LeetCode Topics End-->

@@ -1,18 +1,19 @@
 class Solution {
     private static int encrpted(int num){
-        int maxDigit=0;
-        int temp=num;
-        int len=0;
-        while(temp>0){
-            maxDigit=Math.max(maxDigit,temp%10);
-            temp/=10;
-            len++;
-        }
+   
+
+    String str=String.valueOf(num);
+    int maxDigit=0;
+    for(char ch:str.toCharArray()){
+        maxDigit=Math.max(maxDigit,ch-'0');
+    }
+    int len=String.valueOf(num).length();
         int encr=0;
         for(int i=0;i<len;i++){
            encr=encr*10+maxDigit;
         }
        return encr;
+    
     }
     public int sumOfEncryptedInt(int[] nums) {
        int sum=0;
@@ -22,3 +23,17 @@ class Solution {
        return sum;
     }
 }
+
+ //     int maxDigit=0;
+    //     int temp=num;
+    //     int len=0;
+    //     while(temp>0){
+    //         maxDigit=Math.max(maxDigit,temp%10);
+    //         temp/=10;
+    //         len++;
+    //     }
+    //     int encr=0;
+    //     for(int i=0;i<len;i++){
+    //        encr=encr*10+maxDigit;
+    //     }
+    //    return encr;

@@ -8,9 +8,9 @@ class Solution {
         sumApple+=a;
       }
 
-      for(int i=capacity.length-1 ;i>=0 && sumApple > 0;i--){
+      for(int i=capacity.length-1 ;i>=0 ;i--){
         int c=capacity[i];
-        // if(sumApple==0) break;
+        if(sumApple <=0) break;
         sumApple-=c;
         count++;
         

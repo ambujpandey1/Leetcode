@@ -4,7 +4,7 @@ class Solution {
         for(int i=0;i<9;i++){
            if(col!=i && board[row][i]==board[row][col]) return false;
            if(row!=i && board[i][col]==board[row][col]) return false;
-           if( col!=(3*(col/3)+i%3)&&row!=(3*(row/3)+i/3) &&board[(3*(row/3)+i/3)][(3*(col/3)+i%3)]==board[row][col]) return false;
+           if( row!=(3*(row/3)+i/3)&&col!=(3*(col/3)+i%3) &&board[(3*(row/3)+i/3)][(3*(col/3)+i%3)]==board[row][col]) return false;
         }
         return true;
     }

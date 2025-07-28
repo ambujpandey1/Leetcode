@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ambujpandey1/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1205-defanging-an-ip-address](https://github.com/ambujpandey1/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1250-longest-common-subsequence](https://github.com/ambujpandey1/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/ambujpandey1/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1542-consecutive-characters](https://github.com/ambujpandey1/Leetcode/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/ambujpandey1/Leetcode/tree/master/1547-destination-city) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/ambujpandey1/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/ambujpandey1/Leetcode/tree/master/0279-perfect-squares) |
+| [1250-longest-common-subsequence](https://github.com/ambujpandey1/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 ## Memoization
 |  |

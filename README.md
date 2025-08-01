@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/ambujpandey1/Leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0198-house-robber](https://github.com/ambujpandey1/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0213-house-robber-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ambujpandey1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/ambujpandey1/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Stack
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/ambujpandey1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2662-check-knight-tour-configuration](https://github.com/ambujpandey1/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujpandey1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Breadth-First Search

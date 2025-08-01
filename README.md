@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/ambujpandey1/Leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/ambujpandey1/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ambujpandey1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/ambujpandey1/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ambujpandey1/Leetcode/tree/master/0015-3sum) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ambujpandey1/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3334-apple-redistribution-into-boxes](https://github.com/ambujpandey1/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ambujpandey1/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ambujpandey1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String

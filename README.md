@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/ambujpandey1/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ambujpandey1/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/ambujpandey1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ambujpandey1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1039-find-the-town-judge](https://github.com/ambujpandey1/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/ambujpandey1/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/ambujpandey1/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ambujpandey1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/ambujpandey1/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0560-subarray-sum-equals-k](https://github.com/ambujpandey1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1039-find-the-town-judge](https://github.com/ambujpandey1/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1297-maximum-number-of-balloons](https://github.com/ambujpandey1/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ambujpandey1/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ambujpandey1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2571-find-the-pivot-integer](https://github.com/ambujpandey1/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/ambujpandey1/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Counting

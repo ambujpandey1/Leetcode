@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/ambujpandey1/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ambujpandey1/Leetcode/tree/master/0037-sudoku-solver) |
+| [0146-lru-cache](https://github.com/ambujpandey1/Leetcode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/ambujpandey1/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/ambujpandey1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1039-find-the-town-judge](https://github.com/ambujpandey1/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ambujpandey1/Leetcode/tree/master/0146-lru-cache) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ambujpandey1/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Combinatorics
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ambujpandey1/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/ambujpandey1/Leetcode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ambujpandey1/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Divide and Conquer
 |  |
@@ -247,5 +250,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ambujpandey1/Leetcode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ambujpandey1/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->

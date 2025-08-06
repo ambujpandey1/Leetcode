@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1039-find-the-town-judge](https://github.com/ambujpandey1/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/ambujpandey1/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ambujpandey1/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ambujpandey1/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1547-destination-city](https://github.com/ambujpandey1/Leetcode/tree/master/1547-destination-city) |
 | [1646-kth-missing-positive-number](https://github.com/ambujpandey1/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ambujpandey1/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/ambujpandey1/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ambujpandey1/Leetcode/tree/master/0018-4sum) |
 | [0368-largest-divisible-subset](https://github.com/ambujpandey1/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ambujpandey1/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ambujpandey1/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3334-apple-redistribution-into-boxes](https://github.com/ambujpandey1/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ambujpandey1/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3334-apple-redistribution-into-boxes](https://github.com/ambujpandey1/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Binary Search
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ambujpandey1/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ambujpandey1/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
 |  |
 | ------- |

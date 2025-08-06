@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/ambujpandey1/Leetcode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/ambujpandey1/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/ambujpandey1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ambujpandey1/Leetcode/tree/master/0567-permutation-in-string) |
 | [1039-find-the-town-judge](https://github.com/ambujpandey1/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1297-maximum-number-of-balloons](https://github.com/ambujpandey1/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ambujpandey1/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -82,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/ambujpandey1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ambujpandey1/Leetcode/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/ambujpandey1/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/ambujpandey1/Leetcode/tree/master/0567-permutation-in-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ambujpandey1/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/ambujpandey1/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/ambujpandey1/Leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/ambujpandey1/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1205-defanging-an-ip-address](https://github.com/ambujpandey1/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/ambujpandey1/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/ambujpandey1/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ambujpandey1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Tree
 |  |

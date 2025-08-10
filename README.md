@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ambujpandey1/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ambujpandey1/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ambujpandey1/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ambujpandey1/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ambujpandey1/Leetcode/tree/master/0904-leaf-similar-trees) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ambujpandey1/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ambujpandey1/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ambujpandey1/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ambujpandey1/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ambujpandey1/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ambujpandey1/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ambujpandey1/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ambujpandey1/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ambujpandey1/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ambujpandey1/Leetcode/tree/master/0904-leaf-similar-trees) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ambujpandey1/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0279-perfect-squares](https://github.com/ambujpandey1/Leetcode/tree/master/0279-perfect-squares) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ambujpandey1/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/ambujpandey1/Leetcode/tree/master/2662-check-knight-tour-configuration) |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/ambujpandey1/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ambujpandey1/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ambujpandey1/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/ambujpandey1/Leetcode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ambujpandey1/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Divide and Conquer

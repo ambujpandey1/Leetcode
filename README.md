@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0176-second-highest-salary](https://github.com/ambujpandey1/Leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/ambujpandey1/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/ambujpandey1/Leetcode/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/ambujpandey1/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/ambujpandey1/Leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/ambujpandey1/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/ambujpandey1/Leetcode/tree/master/0584-find-customer-referee) |

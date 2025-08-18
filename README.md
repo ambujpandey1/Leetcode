@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1452-restaurant-growth](https://github.com/ambujpandey1/Leetcode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/ambujpandey1/Leetcode/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ambujpandey1/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1625-group-sold-products-by-the-date](https://github.com/ambujpandey1/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ambujpandey1/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/ambujpandey1/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/ambujpandey1/Leetcode/tree/master/1827-invalid-tweets) |

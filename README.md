@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/ambujpandey1/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1278-product-price-at-a-given-date](https://github.com/ambujpandey1/Leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/ambujpandey1/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1338-queries-quality-and-percentage](https://github.com/ambujpandey1/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/ambujpandey1/Leetcode/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/ambujpandey1/Leetcode/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/ambujpandey1/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |

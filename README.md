@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1542-consecutive-characters](https://github.com/ambujpandey1/Leetcode/tree/master/1542-consecutive-characters) |
 | [1543-simplified-fractions](https://github.com/ambujpandey1/Leetcode/tree/master/1543-simplified-fractions) |
 | [1547-destination-city](https://github.com/ambujpandey1/Leetcode/tree/master/1547-destination-city) |
+| [1666-make-the-string-great](https://github.com/ambujpandey1/Leetcode/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ambujpandey1/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ambujpandey1/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ambujpandey1/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/ambujpandey1/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0173-binary-search-tree-iterator](https://github.com/ambujpandey1/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ambujpandey1/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1666-make-the-string-great](https://github.com/ambujpandey1/Leetcode/tree/master/1666-make-the-string-great) |
 | [1985-maximum-subarray-min-product](https://github.com/ambujpandey1/Leetcode/tree/master/1985-maximum-subarray-min-product) |
 ## Monotonic Stack
 |  |

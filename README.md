@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/ambujpandey1/Leetcode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ambujpandey1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ambujpandey1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/ambujpandey1/Leetcode/tree/master/0679-24-game) |
 | [1039-find-the-town-judge](https://github.com/ambujpandey1/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ambujpandey1/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/ambujpandey1/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/ambujpandey1/Leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/ambujpandey1/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/ambujpandey1/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/ambujpandey1/Leetcode/tree/master/0679-24-game) |
 | [1543-simplified-fractions](https://github.com/ambujpandey1/Leetcode/tree/master/1543-simplified-fractions) |
 | [2571-find-the-pivot-integer](https://github.com/ambujpandey1/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujpandey1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/ambujpandey1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ambujpandey1/Leetcode/tree/master/0051-n-queens) |
+| [0679-24-game](https://github.com/ambujpandey1/Leetcode/tree/master/0679-24-game) |
 ## Matrix
 |  |
 | ------- |

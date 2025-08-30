@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/ambujpandey1/Leetcode/tree/master/0567-permutation-in-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1881-closest-subsequence-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1881-closest-subsequence-sum) |
+| [2481-strictly-palindromic-number](https://github.com/ambujpandey1/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/ambujpandey1/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/ambujpandey1/Leetcode/tree/master/0679-24-game) |
 | [1543-simplified-fractions](https://github.com/ambujpandey1/Leetcode/tree/master/1543-simplified-fractions) |
+| [2481-strictly-palindromic-number](https://github.com/ambujpandey1/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2571-find-the-pivot-integer](https://github.com/ambujpandey1/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujpandey1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ambujpandey1/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -423,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1881-closest-subsequence-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1881-closest-subsequence-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/ambujpandey1/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

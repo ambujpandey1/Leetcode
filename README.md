@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/ambujpandey1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/ambujpandey1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/ambujpandey1/Leetcode/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/ambujpandey1/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/ambujpandey1/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ambujpandey1/Leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/ambujpandey1/Leetcode/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/ambujpandey1/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/ambujpandey1/Leetcode/tree/master/0455-assign-cookies) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ambujpandey1/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |

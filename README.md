@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ambujpandey1/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ambujpandey1/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ambujpandey1/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/ambujpandey1/Leetcode/tree/master/0198-house-robber) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ambujpandey1/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ambujpandey1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/ambujpandey1/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ambujpandey1/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ambujpandey1/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ambujpandey1/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ambujpandey1/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/ambujpandey1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ambujpandey1/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ambujpandey1/Leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/ambujpandey1/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ambujpandey1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0679-24-game](https://github.com/ambujpandey1/Leetcode/tree/master/0679-24-game) |
 ## Matrix
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ambujpandey1/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ambujpandey1/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ambujpandey1/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2662-check-knight-tour-configuration](https://github.com/ambujpandey1/Leetcode/tree/master/2662-check-knight-tour-configuration) |

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/ambujpandey1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ambujpandey1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/ambujpandey1/Leetcode/tree/master/0679-24-game) |
+| [0790-global-and-local-inversions](https://github.com/ambujpandey1/Leetcode/tree/master/0790-global-and-local-inversions) |
 | [0860-design-circular-queue](https://github.com/ambujpandey1/Leetcode/tree/master/0860-design-circular-queue) |
 | [1039-find-the-town-judge](https://github.com/ambujpandey1/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ambujpandey1/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/ambujpandey1/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/ambujpandey1/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/ambujpandey1/Leetcode/tree/master/0679-24-game) |
+| [0790-global-and-local-inversions](https://github.com/ambujpandey1/Leetcode/tree/master/0790-global-and-local-inversions) |
 | [1543-simplified-fractions](https://github.com/ambujpandey1/Leetcode/tree/master/1543-simplified-fractions) |
 | [2481-strictly-palindromic-number](https://github.com/ambujpandey1/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2571-find-the-pivot-integer](https://github.com/ambujpandey1/Leetcode/tree/master/2571-find-the-pivot-integer) |

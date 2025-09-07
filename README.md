@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0679-24-game](https://github.com/ambujpandey1/Leetcode/tree/master/0679-24-game) |
 | [0790-global-and-local-inversions](https://github.com/ambujpandey1/Leetcode/tree/master/0790-global-and-local-inversions) |
 | [1543-simplified-fractions](https://github.com/ambujpandey1/Leetcode/tree/master/1543-simplified-fractions) |
+| [2050-count-good-numbers](https://github.com/ambujpandey1/Leetcode/tree/master/2050-count-good-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/ambujpandey1/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2571-find-the-pivot-integer](https://github.com/ambujpandey1/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujpandey1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ambujpandey1/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/ambujpandey1/Leetcode/tree/master/0231-power-of-two) |
+| [2050-count-good-numbers](https://github.com/ambujpandey1/Leetcode/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
 | ------- |

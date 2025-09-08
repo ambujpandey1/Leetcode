@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1121-partition-array-for-maximum-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/ambujpandey1/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ambujpandey1/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ambujpandey1/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ambujpandey1/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1547-destination-city](https://github.com/ambujpandey1/Leetcode/tree/master/1547-destination-city) |
 | [1646-kth-missing-positive-number](https://github.com/ambujpandey1/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/ambujpandey1/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/ambujpandey1/Leetcode/tree/master/0679-24-game) |
 | [0790-global-and-local-inversions](https://github.com/ambujpandey1/Leetcode/tree/master/0790-global-and-local-inversions) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ambujpandey1/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1543-simplified-fractions](https://github.com/ambujpandey1/Leetcode/tree/master/1543-simplified-fractions) |
 | [2050-count-good-numbers](https://github.com/ambujpandey1/Leetcode/tree/master/2050-count-good-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/ambujpandey1/Leetcode/tree/master/2481-strictly-palindromic-number) |

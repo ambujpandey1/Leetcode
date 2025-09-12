@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/ambujpandey1/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ambujpandey1/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/ambujpandey1/Leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/ambujpandey1/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ambujpandey1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ambujpandey1/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0062-unique-paths](https://github.com/ambujpandey1/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ambujpandey1/Leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/ambujpandey1/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ambujpandey1/Leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/ambujpandey1/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/ambujpandey1/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ambujpandey1/Leetcode/tree/master/0204-count-primes) |
 | [1543-simplified-fractions](https://github.com/ambujpandey1/Leetcode/tree/master/1543-simplified-fractions) |
 ## Bitmask
 |  |
@@ -472,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ambujpandey1/Leetcode/tree/master/0561-array-partition) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ambujpandey1/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

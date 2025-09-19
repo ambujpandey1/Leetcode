@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3226-minimum-number-game](https://github.com/ambujpandey1/Leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujpandey1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ambujpandey1/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/ambujpandey1/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/ambujpandey1/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ambujpandey1/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ambujpandey1/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1798-max-number-of-k-sum-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1881-closest-subsequence-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [2481-strictly-palindromic-number](https://github.com/ambujpandey1/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/ambujpandey1/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## String
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/ambujpandey1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ambujpandey1/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1646-kth-missing-positive-number](https://github.com/ambujpandey1/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/ambujpandey1/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ambujpandey1/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
@@ -483,4 +486,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ambujpandey1/Leetcode/tree/master/0204-count-primes) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/ambujpandey1/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 <!---LeetCode Topics End-->

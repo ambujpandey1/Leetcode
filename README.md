@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1666-make-the-string-great](https://github.com/ambujpandey1/Leetcode/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ambujpandey1/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ambujpandey1/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/ambujpandey1/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ambujpandey1/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ambujpandey1/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ambujpandey1/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/ambujpandey1/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ambujpandey1/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ambujpandey1/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/ambujpandey1/Leetcode/tree/master/2662-check-knight-tour-configuration) |

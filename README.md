@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3334-apple-redistribution-into-boxes](https://github.com/ambujpandey1/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ambujpandey1/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ambujpandey1/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3533-snake-in-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3778-transform-array-by-parity](https://github.com/ambujpandey1/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/ambujpandey1/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2365-percentage-of-letter-in-string](https://github.com/ambujpandey1/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/ambujpandey1/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/ambujpandey1/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3533-snake-in-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Math
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2195-time-needed-to-buy-tickets](https://github.com/ambujpandey1/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/ambujpandey1/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3226-minimum-number-game](https://github.com/ambujpandey1/Leetcode/tree/master/3226-minimum-number-game) |
+| [3533-snake-in-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/ambujpandey1/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String Matching
 |  |

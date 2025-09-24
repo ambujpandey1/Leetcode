@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0679-24-game](https://github.com/ambujpandey1/Leetcode/tree/master/0679-24-game) |
 | [0790-global-and-local-inversions](https://github.com/ambujpandey1/Leetcode/tree/master/0790-global-and-local-inversions) |
 | [0860-design-circular-queue](https://github.com/ambujpandey1/Leetcode/tree/master/0860-design-circular-queue) |
+| [0967-minimum-falling-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1039-find-the-town-judge](https://github.com/ambujpandey1/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ambujpandey1/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/ambujpandey1/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/ambujpandey1/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ambujpandey1/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0967-minimum-falling-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1250-longest-common-subsequence](https://github.com/ambujpandey1/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ambujpandey1/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ambujpandey1/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0967-minimum-falling-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ambujpandey1/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2662-check-knight-tour-configuration](https://github.com/ambujpandey1/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujpandey1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |

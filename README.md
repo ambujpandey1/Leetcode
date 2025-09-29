@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/ambujpandey1/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/ambujpandey1/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/ambujpandey1/Leetcode/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ambujpandey1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ambujpandey1/Leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/ambujpandey1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/ambujpandey1/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/ambujpandey1/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/ambujpandey1/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/ambujpandey1/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0967-minimum-falling-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ambujpandey1/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ambujpandey1/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ambujpandey1/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2662-check-knight-tour-configuration](https://github.com/ambujpandey1/Leetcode/tree/master/2662-check-knight-tour-configuration) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ambujpandey1/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0279-perfect-squares](https://github.com/ambujpandey1/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ambujpandey1/Leetcode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0542-01-matrix) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ambujpandey1/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ambujpandey1/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/ambujpandey1/Leetcode/tree/master/2662-check-knight-tour-configuration) |

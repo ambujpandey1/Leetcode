@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/ambujpandey1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ambujpandey1/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/ambujpandey1/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3291-find-if-array-can-be-sorted](https://github.com/ambujpandey1/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3334-apple-redistribution-into-boxes](https://github.com/ambujpandey1/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ambujpandey1/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ambujpandey1/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1798-max-number-of-k-sum-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1881-closest-subsequence-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [3226-minimum-number-game](https://github.com/ambujpandey1/Leetcode/tree/master/3226-minimum-number-game) |
+| [3291-find-if-array-can-be-sorted](https://github.com/ambujpandey1/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3334-apple-redistribution-into-boxes](https://github.com/ambujpandey1/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3778-transform-array-by-parity](https://github.com/ambujpandey1/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/ambujpandey1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1881-closest-subsequence-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ambujpandey1/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3291-find-if-array-can-be-sorted](https://github.com/ambujpandey1/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Graph
 |  |
 | ------- |

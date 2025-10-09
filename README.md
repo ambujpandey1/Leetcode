@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ambujpandey1/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1547-destination-city](https://github.com/ambujpandey1/Leetcode/tree/master/1547-destination-city) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/ambujpandey1/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujpandey1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1666-make-the-string-great](https://github.com/ambujpandey1/Leetcode/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ambujpandey1/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ambujpandey1/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/ambujpandey1/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ambujpandey1/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ambujpandey1/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ambujpandey1/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/ambujpandey1/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/ambujpandey1/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3778-transform-array-by-parity](https://github.com/ambujpandey1/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |

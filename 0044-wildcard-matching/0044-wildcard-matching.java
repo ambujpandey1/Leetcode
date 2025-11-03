@@ -35,10 +35,36 @@ class Solution {
 
         int n = s.length();
         int m = p.length();
-        int dp[][] = new int[n+1][m+1];
-        for (int r[] : dp) {
-            Arrays.fill(r, -1);
+        // int dp[][] = new int[n+1][m+1];
+        // for (int r[] : dp) {
+        //     Arrays.fill(r, -1);
+        // }
+        // return f(n , m , s, p, dp);
+
+        // Tabulation
+          
+        boolean dp[][]=new boolean[n+1][m+1];
+         
+         dp[0][0]=true;
+         for(int i=0;i<=n;i++) dp[i][0]=false;
+         for(int j=0;j<=m;j++) dp[0][j]=isAllStars(p, j);
+
+         for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
+                 boolean ans;
+        if (p.charAt(j-1) == s.charAt(i-1) || p.charAt(j-1) == '?') {
+            ans = dp[i - 1][j - 1];
+
+        } else if (p.charAt(j-1) == '*') {
+            ans = dp[i - 1][j] || dp[i][ j - 1];
+        } else {
+            ans = false;
         }
-        return f(n , m , s, p, dp);
+
+        dp[i][j] = ans;
+       
+            }
+         }
+    return dp[n][m];
     }
 }

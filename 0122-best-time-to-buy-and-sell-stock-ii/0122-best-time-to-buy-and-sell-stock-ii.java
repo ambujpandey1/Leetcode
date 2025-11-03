@@ -24,10 +24,29 @@ class Solution {
     //    } 
     //    return maxProfit;
     int n=prices.length;
-    int dp[][] =new int[n][2];
-    for(int[] r:dp){
-        Arrays.fill(r,-1);
+    // int dp[][] =new int[n][2];
+    // for(int[] r:dp){
+    //     Arrays.fill(r,-1);
+    // }
+    // return f(0,1,prices,dp);
+
+
+    // Tabulation
+    int dp[][] =new int[n+1][2];
+    dp[n][0]=dp[n][1]=0;
+
+    for(int i=n-1;i>=0;i--){
+        for(int buy=0;buy<=1;buy++){
+           int profit=0;
+        if(buy==1){ // buy the  stock
+            profit=Math.max(-prices[i]+dp[i+1][0],0+dp[i+1][1]);
+        }
+        else{
+            profit=Math.max(prices[i]+dp[i+1][1],0+dp[i+1][0]);
+        }
+         dp[i][buy]=profit;  
+        }
     }
-    return f(0,1,prices,dp);
+    return dp[0][1];
     }
 }

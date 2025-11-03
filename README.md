@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ambujpandey1/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0044-wildcard-matching](https://github.com/ambujpandey1/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ambujpandey1/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ambujpandey1/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/ambujpandey1/Leetcode/tree/master/0127-word-ladder) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ambujpandey1/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/ambujpandey1/Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/ambujpandey1/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ambujpandey1/Leetcode/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/ambujpandey1/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ambujpandey1/Leetcode/tree/master/0561-array-partition) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ambujpandey1/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ambujpandey1/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/ambujpandey1/Leetcode/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/ambujpandey1/Leetcode/tree/master/0231-power-of-two) |
 | [1197-parsing-a-boolean-expression](https://github.com/ambujpandey1/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/ambujpandey1/Leetcode/tree/master/2050-count-good-numbers) |

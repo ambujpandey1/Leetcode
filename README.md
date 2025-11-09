@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1646-kth-missing-positive-number](https://github.com/ambujpandey1/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ambujpandey1/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ambujpandey1/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1753-path-with-minimum-effort](https://github.com/ambujpandey1/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ambujpandey1/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1881-closest-subsequence-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1881-closest-subsequence-sum) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-leaf-similar-trees](https://github.com/ambujpandey1/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1073-number-of-enclaves](https://github.com/ambujpandey1/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ambujpandey1/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/ambujpandey1/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2662-check-knight-tour-configuration](https://github.com/ambujpandey1/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/ambujpandey1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ambujpandey1/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1646-kth-missing-positive-number](https://github.com/ambujpandey1/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/ambujpandey1/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/ambujpandey1/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ambujpandey1/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1073-number-of-enclaves](https://github.com/ambujpandey1/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ambujpandey1/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1753-path-with-minimum-effort](https://github.com/ambujpandey1/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2662-check-knight-tour-configuration](https://github.com/ambujpandey1/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujpandey1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Breadth-First Search
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1073-number-of-enclaves](https://github.com/ambujpandey1/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ambujpandey1/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/ambujpandey1/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2662-check-knight-tour-configuration](https://github.com/ambujpandey1/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Design
 |  |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ambujpandey1/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ambujpandey1/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1753-path-with-minimum-effort](https://github.com/ambujpandey1/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [3226-minimum-number-game](https://github.com/ambujpandey1/Leetcode/tree/master/3226-minimum-number-game) |
 ## Merge Sort
 |  |
@@ -575,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/ambujpandey1/Leetcode/tree/master/0130-surrounded-regions) |
 | [0801-is-graph-bipartite](https://github.com/ambujpandey1/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ambujpandey1/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/ambujpandey1/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Indexed Tree
 |  |
 | ------- |

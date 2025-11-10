@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ambujpandey1/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ambujpandey1/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1881-closest-subsequence-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1881-closest-subsequence-sum) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ambujpandey1/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
 | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0801-is-graph-bipartite](https://github.com/ambujpandey1/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ambujpandey1/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1039-find-the-town-judge](https://github.com/ambujpandey1/Leetcode/tree/master/1039-find-the-town-judge) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ambujpandey1/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
 | ------- |
@@ -595,4 +597,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ambujpandey1/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ambujpandey1/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ambujpandey1/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->

@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1073-number-of-enclaves](https://github.com/ambujpandey1/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ambujpandey1/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ambujpandey1/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ambujpandey1/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2662-check-knight-tour-configuration](https://github.com/ambujpandey1/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0803-cheapest-flights-within-k-stops](https://github.com/ambujpandey1/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1039-find-the-town-judge](https://github.com/ambujpandey1/Leetcode/tree/master/1039-find-the-town-judge) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ambujpandey1/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ambujpandey1/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Greedy
 |  |
 | ------- |
@@ -602,4 +604,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ambujpandey1/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ambujpandey1/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->

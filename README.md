@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/ambujpandey1/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ambujpandey1/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ambujpandey1/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/ambujpandey1/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ambujpandey1/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ambujpandey1/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/ambujpandey1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ambujpandey1/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ambujpandey1/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/ambujpandey1/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ambujpandey1/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ambujpandey1/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |

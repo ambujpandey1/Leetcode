@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/ambujpandey1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ambujpandey1/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ambujpandey1/Leetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ambujpandey1/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0054-spiral-matrix) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ambujpandey1/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ambujpandey1/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ambujpandey1/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/ambujpandey1/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ambujpandey1/Leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0074-search-a-2d-matrix) |

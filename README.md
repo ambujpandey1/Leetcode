@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ambujpandey1/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ambujpandey1/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ambujpandey1/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ambujpandey1/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ambujpandey1/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2662-check-knight-tour-configuration](https://github.com/ambujpandey1/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2714-left-and-right-sum-differences](https://github.com/ambujpandey1/Leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1129-longest-string-chain](https://github.com/ambujpandey1/Leetcode/tree/master/1129-longest-string-chain) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1881-closest-subsequence-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1881-closest-subsequence-sum) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ambujpandey1/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/ambujpandey1/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/ambujpandey1/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## String
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ambujpandey1/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ambujpandey1/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ambujpandey1/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ambujpandey1/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2662-check-knight-tour-configuration](https://github.com/ambujpandey1/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3226-minimum-number-game](https://github.com/ambujpandey1/Leetcode/tree/master/3226-minimum-number-game) |
 | [3533-snake-in-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/3533-snake-in-matrix) |

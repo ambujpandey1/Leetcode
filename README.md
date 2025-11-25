@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1881-closest-subsequence-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1985-maximum-subarray-min-product](https://github.com/ambujpandey1/Leetcode/tree/master/1985-maximum-subarray-min-product) |
+| [2104-sum-of-subarray-ranges](https://github.com/ambujpandey1/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ambujpandey1/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ambujpandey1/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ambujpandey1/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1197-parsing-a-boolean-expression](https://github.com/ambujpandey1/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1666-make-the-string-great](https://github.com/ambujpandey1/Leetcode/tree/master/1666-make-the-string-great) |
 | [1985-maximum-subarray-min-product](https://github.com/ambujpandey1/Leetcode/tree/master/1985-maximum-subarray-min-product) |
+| [2104-sum-of-subarray-ranges](https://github.com/ambujpandey1/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/ambujpandey1/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ambujpandey1/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1985-maximum-subarray-min-product](https://github.com/ambujpandey1/Leetcode/tree/master/1985-maximum-subarray-min-product) |
+| [2104-sum-of-subarray-ranges](https://github.com/ambujpandey1/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
 | ------- |

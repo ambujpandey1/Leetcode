@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1171-shortest-path-in-binary-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/ambujpandey1/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ambujpandey1/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ambujpandey1/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ambujpandey1/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ambujpandey1/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1547-destination-city](https://github.com/ambujpandey1/Leetcode/tree/master/1547-destination-city) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/ambujpandey1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ambujpandey1/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ambujpandey1/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ambujpandey1/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Tree
 |  |
 | ------- |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ambujpandey1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ambujpandey1/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1985-maximum-subarray-min-product](https://github.com/ambujpandey1/Leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2571-find-the-pivot-integer](https://github.com/ambujpandey1/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/ambujpandey1/Leetcode/tree/master/2714-left-and-right-sum-differences) |

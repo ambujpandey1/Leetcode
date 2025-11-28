@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0860-design-circular-queue](https://github.com/ambujpandey1/Leetcode/tree/master/0860-design-circular-queue) |
 | [0907-sum-of-subarray-minimums](https://github.com/ambujpandey1/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ambujpandey1/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/ambujpandey1/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ambujpandey1/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/ambujpandey1/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/ambujpandey1/Leetcode/tree/master/0721-accounts-merge) |
 | [0816-design-hashset](https://github.com/ambujpandey1/Leetcode/tree/master/0816-design-hashset) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ambujpandey1/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ambujpandey1/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/ambujpandey1/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/ambujpandey1/Leetcode/tree/master/1129-longest-string-chain) |
 | [1297-maximum-number-of-balloons](https://github.com/ambujpandey1/Leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/ambujpandey1/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ambujpandey1/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ambujpandey1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ambujpandey1/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ambujpandey1/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Tree
 |  |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/ambujpandey1/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1297-maximum-number-of-balloons](https://github.com/ambujpandey1/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/ambujpandey1/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3778-transform-array-by-parity](https://github.com/ambujpandey1/Leetcode/tree/master/3778-transform-array-by-parity) |

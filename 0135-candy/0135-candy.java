@@ -1,5 +1,5 @@
 class Solution {
-    public int candy(int[] ratings) {
+    public int candyBruteForce(int[] ratings) {
         int n=ratings.length;
         int[] candies=new int[n];
          Arrays.fill(candies,1);
@@ -30,5 +30,41 @@ class Solution {
             ans+=can;
         }
         return ans;
+    }
+    public int candy(int[] ratings) {
+    //    return candyBruteForce(ratings); Brute force
+     
+
+     int i=1; // starting from 2nd elemet
+     int n=ratings.length;
+     int candies=n;
+     while(i<n){
+
+        if(ratings[i]==ratings[i-1]){
+             i++;
+            continue;
+           
+        }
+
+        int peak=0;
+        while(i<n && ratings[i]>ratings[i-1]){
+            peak++;
+            candies+=peak;
+            i++;
+        }
+       int velly=0;
+        while(i<n && ratings[i]<ratings[i-1])
+        {
+            velly++;
+            candies+=velly;
+            i++;
+        }
+
+        // negtive of common pek velly
+        candies-=Math.min(peak,velly);
+     }
+
+     return candies;
+
     }
 }

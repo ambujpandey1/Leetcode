@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/ambujpandey1/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/ambujpandey1/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ambujpandey1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ambujpandey1/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ambujpandey1/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ambujpandey1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ambujpandey1/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/0493-reverse-pairs) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/ambujpandey1/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ambujpandey1/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/ambujpandey1/Leetcode/tree/master/0130-surrounded-regions) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/ambujpandey1/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ambujpandey1/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |

@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ambujpandey1/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1881-closest-subsequence-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1881-closest-subsequence-sum) |
+| [1901-find-a-peak-element-ii](https://github.com/ambujpandey1/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1985-maximum-subarray-min-product](https://github.com/ambujpandey1/Leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2104-sum-of-subarray-ranges](https://github.com/ambujpandey1/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0493-reverse-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/0493-reverse-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/ambujpandey1/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/ambujpandey1/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/ambujpandey1/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/ambujpandey1/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ambujpandey1/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1171-shortest-path-in-binary-matrix](https://github.com/ambujpandey1/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ambujpandey1/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ambujpandey1/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/ambujpandey1/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2662-check-knight-tour-configuration](https://github.com/ambujpandey1/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujpandey1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Breadth-First Search

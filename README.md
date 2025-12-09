@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0790-global-and-local-inversions](https://github.com/ambujpandey1/Leetcode/tree/master/0790-global-and-local-inversions) |
 | [0816-design-hashset](https://github.com/ambujpandey1/Leetcode/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/ambujpandey1/Leetcode/tree/master/0860-design-circular-queue) |
+| [0875-koko-eating-bananas](https://github.com/ambujpandey1/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/ambujpandey1/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ambujpandey1/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/ambujpandey1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ambujpandey1/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/0493-reverse-pairs) |
+| [0875-koko-eating-bananas](https://github.com/ambujpandey1/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/ambujpandey1/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/ambujpandey1/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/ambujpandey1/Leetcode/tree/master/1901-find-a-peak-element-ii) |

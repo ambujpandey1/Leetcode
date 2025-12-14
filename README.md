@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ambujpandey1/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/ambujpandey1/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/ambujpandey1/Leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/ambujpandey1/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ambujpandey1/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ambujpandey1/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ambujpandey1/Leetcode/tree/master/0198-house-robber) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/ambujpandey1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/ambujpandey1/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/ambujpandey1/Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/ambujpandey1/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/ambujpandey1/Leetcode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/ambujpandey1/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/ambujpandey1/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/ambujpandey1/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ambujpandey1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/ambujpandey1/Leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/ambujpandey1/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ambujpandey1/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/ambujpandey1/Leetcode/tree/master/0402-remove-k-digits) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ambujpandey1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ambujpandey1/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/ambujpandey1/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ambujpandey1/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ambujpandey1/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ambujpandey1/Leetcode/tree/master/0198-house-robber) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ambujpandey1/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ambujpandey1/Leetcode/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -760,4 +765,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ambujpandey1/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ambujpandey1/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

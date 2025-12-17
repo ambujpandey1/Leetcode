@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/ambujpandey1/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/ambujpandey1/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/ambujpandey1/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ambujpandey1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/ambujpandey1/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ambujpandey1/Leetcode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/ambujpandey1/Leetcode/tree/master/0493-reverse-pairs) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/ambujpandey1/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/ambujpandey1/Leetcode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/ambujpandey1/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ambujpandey1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/ambujpandey1/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/ambujpandey1/Leetcode/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/ambujpandey1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0231-power-of-two](https://github.com/ambujpandey1/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ambujpandey1/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ambujpandey1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1881-closest-subsequence-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ambujpandey1/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ambujpandey1/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -774,4 +777,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ambujpandey1/Leetcode/tree/master/0139-word-break) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ambujpandey1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->

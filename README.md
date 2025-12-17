@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1547-destination-city](https://github.com/ambujpandey1/Leetcode/tree/master/1547-destination-city) |
 | [1646-kth-missing-positive-number](https://github.com/ambujpandey1/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ambujpandey1/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/ambujpandey1/Leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ambujpandey1/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1753-path-with-minimum-effort](https://github.com/ambujpandey1/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ambujpandey1/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/ambujpandey1/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ambujpandey1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ambujpandey1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/ambujpandey1/Leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1881-closest-subsequence-sum](https://github.com/ambujpandey1/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ambujpandey1/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ambujpandey1/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -778,4 +780,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0139-word-break](https://github.com/ambujpandey1/Leetcode/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ambujpandey1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/ambujpandey1/Leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
